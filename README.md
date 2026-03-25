@@ -80,3 +80,7 @@ Explore these resources for additional insights and help with using bevy_immedia
 ## 🙏 Acknowledgments
 
 Thank you for using bevy_immediate. We hope it helps you build amazing user interfaces in your Bevy projects. Your feedback is valuable for us to improve the tool. Enjoy creating!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/bevy-immediate)
